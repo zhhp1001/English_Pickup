@@ -1,3 +1,5 @@
+*This is a record for English expressions learning from tech books.*
+
 **on-the-fly**  
 
 > 即时、动态...
