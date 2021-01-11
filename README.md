@@ -133,3 +133,37 @@
 > Fortunately for you, there are a bunch of functions that allows you to manipulate IP address. 
 > No neet to figure them out by hand and **stuff them in** a long with the << operator.
 > 把它们塞进...
+
+**as far as...is concerned**
+
+> They are all just for me. Well, all for me as far as anyone else is concerned.
+>
+> 就其他人而言
+
+**workhorse**
+
+> 主力
+>
+> Thi is a real workhorse with a lot of options, but usage is actually pretty simple.
+
+**thereby**
+
+> 从而
+>
+> Notice that I set the ai_family to AF_UNSPEC, thereby saying that I don’t care if we use IPv4 or IPv6.  
+
+**nifty**
+
+> 漂亮的
+>
+> Nifty!
+
+**synopsis**
+
+> Here is the synopsis for the bind() system call.
+
+**queue up**
+
+> 排队 
+>
+> Well, incoming connections are going to wait in this queue until you accept() them and is the limit on how many can *queue up*.
