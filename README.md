@@ -128,4 +128,8 @@
 >
 > Telnet is extremely simple, almost trivial. 微不足道的
 
+**stuff**
 
+> Fortunately for you, there are a bunch of functions that allows you to manipulate IP address. 
+> No neet to figure them out by hand and **stuff them in** a long with the << operator.
+> 把它们塞进...
