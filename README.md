@@ -167,3 +167,37 @@
 > 排队 
 >
 > Well, incoming connections are going to wait in this queue until you accept() them and is the limit on how many can *queue up*.
+
+**reap**
+
+> The code that's there is responsible for reaping zombie processes that appear as the `fork()`ed  child processes exit. 
+>
+> 收割
+
+**loop through**
+
+> loop through all the results 
+>
+> 遍历所有结果
+
+**In a nutshell**
+
+> 简而言之
+
+**techie jargon**
+
+> 技术术语
+>
+> In a nutshell, "block" is techie jargon for "sleep".
+
+**breach**
+
+> The purpose of a firewall is to prevent people  outside the firewall from connecting to machines  
+>
+> inside the firewall, so allowing them to do so is basically considered *a breach of* security.
+>
+> 违反
+
+**synopsis**
+
+> 概要
