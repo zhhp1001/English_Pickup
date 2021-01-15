@@ -201,3 +201,88 @@
 **synopsis**
 
 > 概要
+**be identical to**
+
+> 与...一样
+
+**hence the name**
+
+> 由此得名
+>
+> It is a command line user program on -nix machines using the telnet protocol --hence the name-- to login to other machines.
+
+**toggle**
+
+> 拨动
+>
+> Use the word toggle for a switch that has two positions, on and off. 
+
+**In retrospect**
+
+> 回想起来
+
+**agreed-upon**
+
+> 互相认可的；议定
+>
+> - As you know, this was not the solution eventually agreed upon.
+>
+> ​       你们知道，这不是最后达成协议的解决办法
+>
+> - Two systems can't communicate without having an agreed-upon protocol, even if that protocol is just "raw data over TCP".
+
+**exhaustive**
+
+> If you describe a study, search, or list as exhaustive, you mean that it is very thorough and complete.
+>
+> 详尽的
+>
+> an exhaustive answer
+
+**gist**
+
+> the most important pieces of information about something, or general information without details:
+>
+> That was the gist of what he said.
+
+**juncture**
+
+> I believe we're now at the right juncture to make this transition.
+>
+> 契机
+
+**tremendous**
+
+> I want to thank all of your tremendous support during my time at Intel.
+>
+> 巨大
+
+**press release**
+
+> 新闻稿
+>
+> You can read our press release here.
+
+**among other things**
+
+> 此外
+>
+> In the old days, you had to physically walk to a server in order to access its data. This meant, among other things, that you had to spend some time arriving at the server's location and then you had to wait for your turn to work with the server.
+
+**be intended for**
+
+> 用于
+>
+> As mentioned in the Telnet overview, even though the protocol is classically intended for remote login, it need not be used in this manner.
+
+**whereas**
+
+> You user *whereas* to introduce a comment which contrasts with what is said in the main clause.
+
+**deem**
+
+> `configASSERT()` can be defined to take whatever action the application writer deems appropriate.
+>
+> 认为
+>
+> deem appropriate: 认为适当
