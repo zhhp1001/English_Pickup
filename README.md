@@ -2,19 +2,20 @@
 
 **on-the-fly**  
 
-> 即时、动态...
+> 即时、动态... 
+>
 > You can also edit the HTML or CSS *on-the-fly* in the Elements or Styles panel that opens.
 
 **switty**
 
 > 机智的（在GitHub上见到过）
-
-**This is typically the case**
-
+>
+> This is typically the case
+>
 > 通常是这种情况
-
-**leverage the capabilities of ...**
-
+>
+> leverage the capabilities of ...
+>
 > 利用...
 
 **compatibility**
