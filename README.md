@@ -3,7 +3,6 @@
 **on-the-fly**  
 
 > 即时、动态...
-
 > You can also edit the HTML or CSS *on-the-fly* in the Elements or Styles panel that opens.
 
 **switty**
