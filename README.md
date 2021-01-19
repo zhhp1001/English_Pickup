@@ -286,3 +286,11 @@
 > 认为
 >
 > deem appropriate: 认为适当
+
+> 
+
+**fall back on sth**
+
+> If you fall back on something, you do it or use it after other things have failed.
+>
+> If the client and server agree on the use of an option it can be enabled; if not, they can always *fall back on* the NVT to ensure basic communication.
