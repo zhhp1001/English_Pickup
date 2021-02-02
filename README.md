@@ -294,3 +294,74 @@
 > If you fall back on something, you do it or use it after other things have failed.
 >
 > If the client and server agree on the use of an option it can be enabled; if not, they can always *fall back on* the NVT to ensure basic communication.
+**scalable**
+
+> able to be expanded to cope with increased use.
+>
+> 可扩展的
+
+**approximate**
+
+> A *pseudorandom* number generator (PRNG), also known as a *deterministic random bit generator (DRBG)*, is an algorithm for generating a sequence of numbers whose properties approximate the properties of sequences of random numbers.
+
+**sufficient**
+
+> If something is sufficient for a particular purpose, there is enough of it for the purpose.
+
+**pros and cons**
+
+> 正面与反面；赞成与反对；优缺点
+>
+> The approaches have quite different characteristics and each has its pros and cons.
+
+**crucial**
+
+> If you describe something as crucial, you mean it is extremely important.
+>
+> The choice of a good random seed is crucial.
+
+**mimic**
+
+> If someone or something *mimics* another person or thing, they try to be like them.
+>
+> The computer doesn't mimic human thought; it reaches the same ends by different means.
+>
+> 模仿
+
+**elapse**
+
+> If time elapses, it goes past.
+>
+> Four years had elapsed since he left college and still he hadn't found a job.
+
+**epoch**
+
+> The **Unix epoch** (or **Unix time** or **POSIX time** or **Unix timestamp**) is the number of seconds that have elapsed since January 1, 1970 (midnight UTC/GMT), 
+>
+> Some systems store epoch dates as a signed 32-bit integer, which might cause problems on January 19, 2038 (known as the Year 2038 problem or Y2038). The convertor on this [page](https://www.epochconverter.com/?yyyy=2019&mm=1&dd=1&hh=12&mn=0&ss=0&am=am&tz=1) converts timestamps in seconds, milliseconds and microseconds to readable dates.
+
+**the most recently**
+
+> 最近的；最近一次
+>
+> `$?` expands to the exit status of the most recently executed foreground pipeline.
+
+**legacy**
+
+> - money or property that you receive from someone after they die.
+>
+> - something that is a part of your history or that remains from an earlier time.
+>
+>   The Greeks have a rich legacy of literature.
+
+**bypass**
+
+> If you bypass someone or something that you would normally have to get involved with, you ignore them, often because you want to achieve something more quickly.
+>
+> 绕过；避开；旁路
+
+**defer**
+
+> If you defer an event or action, you arrange for it to happen at a later date, rather than immediately or at the previously planned time.
+>
+> 推迟
