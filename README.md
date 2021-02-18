@@ -365,3 +365,76 @@
 > If you defer an event or action, you arrange for it to happen at a later date, rather than immediately or at the previously planned time.
 >
 > 推迟
+> 
+**state**
+
+> If you state something, you say or write it in a formal or definite way.
+>
+> Clearly state your address and telephone number.
+
+**stage the changed file**
+
+> 暂存更改的文件（git add file1.md）
+
+**To err is human**
+
+> 人非圣贤，孰能无过；犯错是人性；犯错乃人之常情
+
+**tedious**
+
+> If you describe something such as a job, task, or situation as tedious, you mean it is boring and rather frustrating.
+>
+> 冗长的；啰嗦的；单调乏味的...
+
+**revert**
+
+> When people or things revert to a previous state, system or type of behaviour, they go back to it.
+
+**cherry-pick**
+
+> to pick only the best or most suitable from a group of people or things.
+>
+> 筛选；精选
+
+**amend**
+
+> If you amend something that has been written such as a law, or something that is said, you change it in order to improve it or make it more accurate.
+>
+> 改良；订正；修正；修改...
+
+**First and foremost**
+
+> 首先；首要的是
+
+**overwhelmed**
+
+> I was humbled, honored, excited and a bit overwhelmed.
+>
+> 不知所措
+
+**unmatched**
+
+> If you describe something as unmatched, you are emphasizing that it is better or greater than all other things of the same kind.
+
+**transparent**
+
+> If an object is transparent, you can see through it.
+
+**check out the next installment**
+
+> 查看下一部分
+
+**installment**
+
+> - 分期付款
+> - An installment of a story or plan is one of  its parts that are published or carried out separately one after the other.
+
+**transient**
+
+> Transient is used to describe a situation that lasts only a short time or is constantly changing.
+>
+> `.gitignore` tells git which files (or patterns) it should ignore. It's usually used to avoid committing transient files from your working directory that aren't useful to other collaborators, such as compilation products, temporary files IDEs create, etc.
+
+**constantly**
+
+> When something happens constantly, it never stops or changes. If your sister constantly complains that she's hungry, she is always insisting that she's starving.
