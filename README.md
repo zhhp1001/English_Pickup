@@ -438,3 +438,52 @@
 **constantly**
 
 > When something happens constantly, it never stops or changes. If your sister constantly complains that she's hungry, she is always insisting that she's starving.
+
+**nuanced**
+
+> made [slightly](https://dictionary.cambridge.org/dictionary/english/slightly) different in [appearance](https://dictionary.cambridge.org/dictionary/english/appearance), [meaning](https://dictionary.cambridge.org/dictionary/english/meaning), [sound](https://dictionary.cambridge.org/dictionary/english/sound), etc.
+>
+> When working in Git, or other version control systems, the concept of "saving" is a more nuanced process than saving in a word processor or other traditional file editing applications. 
+
+**synonymous**
+
+> If two words are synonymous, they mean the same thing.
+>
+> The traditional software expression of "saving" is synonymous with the Git term "committing".
+
+**track down**
+
+> 追踪；追捕到；查出
+>
+>  It’s important to create atomic commits so that it’s easy to *track down* bugs and revert changes with minimal impact on the rest of the project.
+
+**condense**
+
+> If you condense something, especially a piece of writing or speech, you make it shorter, usually by including only the most parts.
+>
+> `git log --oneline`
+>
+> Condense each commit to a single line. This is useful for getting a high-level overview of the project history.
+
+**irreparably**
+
+> 不可挽回地
+>
+> The whole idea behind any version control system is to store "safe" copies of a project so that you never have to worry about *irreparably* breaking your code base.
+
+**obsolete**
+
+> Something that is obsolete is no longer needed because something better has been invented.
+
+**amend**
+
+> If amend something that has been written such as a law, or something that is said, you change it in order to improve it or make it more accurate.
+>
+> 修正；修改；修订
+
+**Let's say**
+
+> 比方说
+>
+> Let's say we've edited a few files that we would like to commit in a single snapshot, but then we forget to add one of the files the first time around.
+
