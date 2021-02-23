@@ -201,6 +201,7 @@
 **synopsis**
 
 > 概要
+
 **be identical to**
 
 > 与...一样
