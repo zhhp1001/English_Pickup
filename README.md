@@ -488,3 +488,195 @@
 >
 > Let's say we've edited a few files that we would like to commit in a single snapshot, but then we forget to add one of the files the first time around.
 
+**mechanism**
+
+> In a machine or piece of  equipment, a  mechanism is a part, often consisting of a set of smaller parts, which performs a particular function.
+
+**in terms of**
+
+> 根据；在...方面；
+>
+> If you talk about something in terms of something or in particular terms, you are specifying which aspect of it you are discussing or from what point of view you are considering it.
+
+**start over**
+
+> If you *start over* or *start* something *over*, you begin something again from the beginning.
+
+**alter**
+
+> To change something, usually slightly, or to cause the  characteristic of something to change.
+>
+> If something alters or if you alter it, it changes. 
+
+**stash**
+
+> If you stash something valuable in a secret place, you store it there to keep it safe.
+
+**misnomer**
+
+> A name that does not suit what it refers to, or the use of such a name.
+>
+> Trees may be a misnomer, as they are not strictly traditional tree data-structures.
+
+**poke**
+
+> If you *poke* someone or something , you quickly push them with your finger or with a sharp object.
+>
+> Poke reviewers who haven't voted yet.
+
+**scenic**
+
+> - A scenic place has attractive scenery.
+>
+> - A scenic route goes through attractive scenery and has nice views.
+>
+> - If a place has scenic beauty, its scenery is attractive.
+>
+> Located in the scenic city of Dalian, ...
+>
+> ...a land of unparalleled scenic beauty.
+
+**This speaks volume in teamwork**
+
+> 这说明团队合作的重要性
+
+**way to go**
+
+> You can say *Way to go* to show that you are pleased or impressed by someone has done.
+>
+> Used to tell someone they have done well, or used humorously when someone has done something stupid.
+>
+> - I heard you girls won the contest. Way to go!
+> - Way to go, John - you broke the chair!
+>
+> 加油；就该这么做；加把劲
+
+**indispensable**
+
+> Something or someone that is indispensable is so good or [important](https://dictionary.cambridge.org/dictionary/english/important) that you could not [manage](https://dictionary.cambridge.org/dictionary/english/manage) without it, him, or her
+>
+> 不可或缺的；不可缺少之物
+
+**productivity**
+
+> 生产力；生产能力 ；生产效率
+>
+> an indispensable productivity tool
+
+**customization**
+
+> If you customize something, you change its appearance or features to suit your tastes or needs.
+>
+> the action of making or changing something according to the buyer's or user's needs.
+
+**tailor to**
+
+> If you tailor something such as a plan or system to someone's needs, you make it suitable for a particular person or purpose by changing the details of it.
+>
+> `FreeRTOSConfig.h` **tailors** the RTOS kernel to the application being built. it is therefore specific to the application, not the RTOS, and should be located in an application directory, not in one of the RTOS kernel source code directories.
+
+**rational**
+
+> Rational decisions and thoughts are based on reason rather than on emotion.
+>
+> He's asking you to look at both sides of the case and come to a rational decision.
+>
+> It can be very hard to think rationally when you're feeling so vulnerable and alone.
+
+**a couple of**
+
+> A small number of; a few; 几个
+>
+> Yes, I'm a bit tired. I'm very bad with a jet-lag. But I'll be all right in a couple of days.
+>
+> Be sure to listen to the lessons without reading the transcript at least a couple of times, since it's necessary for developing your listening skills.
+
+**Excessive**
+
+> Excessive means beyond what is typical or normal. When something is excessive, there's way too much.
+>
+> Excessive exercise can sometimes cause health problems.
+
+**complimentary**
+
+> 1. A complimentary seat, ticket, or book is given to you free.
+>
+> 2. If you are complimentary about something, you express admiration for it.
+
+**suite**`[swi:t]`
+
+> A set of connected rooms, especially in a hotel.
+>
+> How much is a presidential suite for a night?
+
+**promotion**
+
+> 促销
+>
+> There was a promotion in the supermarket and they were giving away free glasses of wine.
+>
+> 晋升
+>
+> The act of raising someone to a higher or more important position or rank.
+>
+> Was Steve given the promotion he wanted?
+
+**tuition**
+
+> 指导；学费
+>
+> The tuition exceeds the average American annual income.
+
+**wording**
+
+> 措辞；用词
+>
+> I cannot but wonder whether this particular wording would not blur the distinction between the aggressor and the victim of aggression.
+
+**break out**
+
+> start suddenly
+
+**injustice**
+
+> an unfair situation
+
+**have the nerve**
+
+> dare to
+
+**placard**
+
+> sign people hold at protests, usually a piece of cardboard on a stick
+
+**rally**
+
+> public meeting in support or opposition of something
+
+**demonstration**
+
+> event where people gather together to show that they support or oppose something
+
+**demonstrators**
+
+> people who go to a demonstration or protest
+
+**opponent**
+
+> a person who opposes something or someone 
+
+**proponent**
+
+> person who supports someone or something
+
+**vehicle**
+
+> A vehicle is a machine such as a car, bus, or truck which has an engine and is used to carry people from place to place.
+
+**linger**
+
+> to take a long time to leave or disappear:
+>
+> After the play had finished, we lingered for a while in the bar hoping to catch sight of the actors.
+>
+> The smell from the fire still lingered days later.
