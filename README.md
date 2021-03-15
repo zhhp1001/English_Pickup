@@ -680,3 +680,77 @@
 > After the play had finished, we lingered for a while in the bar hoping to catch sight of the actors.
 >
 > The smell from the fire still lingered days later.
+
+**abbreviation**
+
+> An abbreviation is a short form of a word or phrase, made by leaving out some of the letters or by using the first letter of each word.
+
+**warts and all**
+
+> If you describe someone or accept them *warts and all*, you describe them or accept them as they are, including all their faults.
+>
+> One of the things I admire about this work is the "warts and all" approach that gives it such credibility.
+
+**credibility**
+
+> If someone or something has credibility, people believe in them and trust them.
+
+**delimiter**
+
+> 分隔符；分界符
+
+**preamble**
+
+> 前言
+>
+> A preamble is an introduction that comes before something you say or write.
+
+**congestion**
+
+> （交通）拥塞；塞车
+>
+> If there is congestion in a place, the place is extremely crowded and blocked with traffic or people.
+
+**retransmission**
+
+> 重传
+
+ **encapsulation**
+
+> 封装
+
+**latency**
+
+> 延迟；潜伏期
+>
+> They measured the latency of the brain's response to a stimulus.
+
+**depict**
+
+> 描绘
+
+**Care should be taken when using jumbo frames**
+
+> Care should be taken when using jumbo frames, as these larger frames are not interoperable with the smaller 1518-byte frame size used by most legacy Ethernet equipment.
+
+**enumerate**
+
+> 枚举
+
+**as to**
+
+> 关于
+>
+> Although IP does not simply drop all traffic unnecessarily, it provides no guarantees *as to* the fate of the packets it attempts to deliver.
+
+**fragment**
+
+> to break something into small parts or to be broken up in this way:
+>
+> His day was fragmented by meetings and phone calls.
+>
+> Although it is possible to send a 65,535-byte IP datagram, most link layers (such as Ethernet) are not able to carry one this large without *fragmenting* it (chopping it up) into smaller pieces. 
+
+ **preliminary**
+
+> A preliminary is something that you do at the beginning of an activity, often as a form of preparation. 
