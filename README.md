@@ -754,3 +754,113 @@
  **preliminary**
 
 > A preliminary is something that you do at the beginning of an activity, often as a form of preparation. 
+
+**line up**
+
+> 排队；排成一行
+>
+> The term *window* comes from the idea that if you lined up all the packets sent during a communication session in a long row but had only a small aperture through which to view them, you would see only a subset of them --- like peering through a window.
+
+**eligible**
+
+> Someone who is eligible to do something is qualified or able to do it.
+>
+> The sender's window, showing which packets are eligible to be sent(or have already been sent), which are not yet eligible, and which have been sent and acknowledged.
+
+**in a nutshell**
+
+> using as few words as possible
+>
+> 简言之；简单说
+
+**up to**
+
+> - used to say that something is less than or [equal](https://dictionary.cambridge.org/dictionary/english/equal) to but not more than a [stated](https://dictionary.cambridge.org/dictionary/english/state) [value](https://dictionary.cambridge.org/dictionary/english/value), [number](https://dictionary.cambridge.org/dictionary/english/number), or [level](https://dictionary.cambridge.org/dictionary/english/level):
+>
+>   Up to two hundred [people](https://dictionary.cambridge.org/dictionary/english/people) were on [board](https://dictionary.cambridge.org/dictionary/english/board) the [ship](https://dictionary.cambridge.org/dictionary/english/ship).
+>
+>   We can [teach](https://dictionary.cambridge.org/dictionary/english/teach) [dancers](https://dictionary.cambridge.org/dictionary/english/dancer) up to [intermediate](https://dictionary.cambridge.org/dictionary/english/intermediate) [level](https://dictionary.cambridge.org/dictionary/english/level) here.
+>
+> - (also up until)
+>
+>   until:
+>
+>   Up to [yesterday](https://dictionary.cambridge.org/dictionary/english/yesterday), we had no [idea](https://dictionary.cambridge.org/dictionary/english/idea) where the [child](https://dictionary.cambridge.org/dictionary/english/child) was.
+>
+> - to be the [responsibility](https://dictionary.cambridge.org/dictionary/english/responsibility) of someone:
+>
+>   It's up to the [manager](https://dictionary.cambridge.org/dictionary/english/manager) to make the [final](https://dictionary.cambridge.org/dictionary/english/final) [decision](https://dictionary.cambridge.org/dictionary/english/decision).
+
+**in no time**
+
+> 立刻
+
+**Now we can tickle this error**
+
+> 现在我们可以解决这个错误
+>
+> tickle本意是挠痒痒...
+>
+> If a [fact](https://www.collinsdictionary.com/dictionary/english/fact) or a [situation](https://www.collinsdictionary.com/dictionary/english/situation) **tickles** you, it [amuses](https://www.collinsdictionary.com/dictionary/english/amuse) you or [gives](https://www.collinsdictionary.com/dictionary/english/give) you pleasure.
+
+ **newbie**
+
+> ...and after hours and hours of Googling and digging every corner of the web to find a solution (because I'm still a newbie), I finally found it.
+
+**originating with**
+
+> 起源于
+
+ **degradation**
+
+> In this case, a so-called *duplex mismatch* can occur. Perhaps surprisingly, when this happens the connection does not completely fail but instead may suffer significant performance degradation.
+
+ **moderate **
+
+> A *moderate* to heavy rainfall
+>
+> 中到大雨
+
+**exponential**
+
+> 指数的；越来越快的；指数
+
+**symmetric**
+
+> 对称的
+
+**if any**
+
+> 如果有的话
+
+**writeup**
+
+> You have to submit a *writeup* that clearly explains parameters of your models, presents the results and analyzes its performance.
+>
+> 你需要提交一份书面记录清晰地解释你的模型的参数，陈述结果和分析性能。
+
+**sanity check**
+
+> 完整性检查
+>
+> As a sanity check for you, we've listed the approximate number of lines of code for each of these functions in our reference solution(which includes lots of comments).
+
+**collective**
+
+> The child processes created as a result of interpreting a single command line **are known collectively as** a *job*.
+>
+> 统称为
+
+**emit output**
+
+> Your shell should *emit output* that is identical to he reference solution(except for PIDs, of course, which change from run to run). 
+>
+> As you've seen, most commands *emit output* of one kind or another.
+>
+> 正如你所看到的， 大多数命令都会产生某类输出。
+
+**come in handy**
+
+> If something **comes in handy**, it is useful in a particular situation.
+>
+> The `waitpid`, `kill`, `fork`, `execve`, `setpgid`, and `sigprocmask` functions will *come in very handy*.  The `WUNTRACED` and `WNOHANG` options to `waitpid` will also be useful.
