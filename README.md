@@ -864,3 +864,9 @@
 > If something **comes in handy**, it is useful in a particular situation.
 >
 > The `waitpid`, `kill`, `fork`, `execve`, `setpgid`, and `sigprocmask` functions will *come in very handy*.  The `WUNTRACED` and `WNOHANG` options to `waitpid` will also be useful.
+
+
+https://blog.apnic.net/2014/12/15/ip-mtu-and-tcp-mss-missmatch-an-evil-for-network-performance/
+https://networkdirection.net/articles/network-theory/mtu-and-mss/
+https://inc0x0.com/tcp-ip-packets-introduction/tcp-ip-packets-3-manually-create-and-send-raw-tcp-ip-packets/
+
