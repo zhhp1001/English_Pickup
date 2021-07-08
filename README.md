@@ -1,21 +1,19 @@
-*This is a record for English expressions learning from tech books.*
-
 **on-the-fly**  
 
-> 即时、动态... 
->
+> 即时、动态...
+
 > You can also edit the HTML or CSS *on-the-fly* in the Elements or Styles panel that opens.
 
 **switty**
 
 > 机智的（在GitHub上见到过）
->
-> This is typically the case
->
+
+**This is typically the case**
+
 > 通常是这种情况
->
-> leverage the capabilities of ...
->
+
+**leverage the capabilities of ...**
+
 > 利用...
 
 **compatibility**
@@ -26,7 +24,9 @@
 
 **concatenate**
 
-
+> to link or join together, esp in a chain or series.
+>
+> The Concat function will concatenate two or more strings from the source into a single string value on the target side.
 
 **trim**
 
@@ -127,12 +127,6 @@
 > If you describe something as trivial, you think that it is unimportant and not serious.
 >
 > Telnet is extremely simple, almost trivial. 微不足道的
-
-**stuff**
-
-> Fortunately for you, there are a bunch of functions that allows you to manipulate IP address. 
-> No neet to figure them out by hand and **stuff them in** a long with the << operator.
-> 把它们塞进...
 
 **as far as...is concerned**
 
@@ -286,15 +280,16 @@
 >
 > 认为
 >
-> deem appropriate: 认为适当
-
-> 
+> deem appropriate 认为适当
+>
+> deem important
 
 **fall back on sth**
 
 > If you fall back on something, you do it or use it after other things have failed.
 >
 > If the client and server agree on the use of an option it can be enabled; if not, they can always *fall back on* the NVT to ensure basic communication.
+
 **scalable**
 
 > able to be expanded to cope with increased use.
@@ -366,7 +361,7 @@
 > If you defer an event or action, you arrange for it to happen at a later date, rather than immediately or at the previously planned time.
 >
 > 推迟
-> 
+
 **state**
 
 > If you state something, you say or write it in a formal or definite way.
@@ -456,7 +451,7 @@
 
 > 追踪；追捕到；查出
 >
->  It’s important to create atomic commits so that it’s easy to *track down* bugs and revert changes with minimal impact on the rest of the project.
+> It’s important to create atomic commits so that it’s easy to *track down* bugs and revert changes with minimal impact on the rest of the project.
 
 **condense**
 
@@ -728,6 +723,8 @@
 **depict**
 
 > 描绘
+>
+> This scenario is depicted in Figure 2.
 
 **Care should be taken when using jumbo frames**
 
@@ -865,8 +862,154 @@
 >
 > The `waitpid`, `kill`, `fork`, `execve`, `setpgid`, and `sigprocmask` functions will *come in very handy*.  The `WUNTRACED` and `WNOHANG` options to `waitpid` will also be useful.
 
+**rid**
 
-https://blog.apnic.net/2014/12/15/ip-mtu-and-tcp-mss-missmatch-an-evil-for-network-performance/
-https://networkdirection.net/articles/network-theory/mtu-and-mss/
-https://inc0x0.com/tcp-ip-packets-introduction/tcp-ip-packets-3-manually-create-and-send-raw-tcp-ip-packets/
+> make someone or something free of (a troublesome or unwanted person or thing).
+>
+> We now have the greatest chance ever to rid the world of nuclear weapons.
 
+**count down**
+
+> 倒数；倒计时
+>
+> to count backwards to zero.
+>
+> She counts down the top 10 music videos every week.
+
+**ephemeral**
+
+> 短暂的；转瞬即逝的
+
+**momentarily**
+
+> - Momentarily means for a short time.
+>
+>   She paused momentarily when she saw them.
+>
+> - Very soon
+>
+>   I'll be ready to leave momentarily.
+
+**scarce**
+
+> If something is scarce, there is not enough of it.
+
+**drastic**
+
+> - A drastic change is a very great change.
+>   - ...a drastic reduction in the numbers of people dying.
+>   - As a result, services have been **drastically** reduced.
+> - If you have to take drastic action in order to solve a problem, you have to do something extreme and basic to solve it.
+>   - He's not going to do anything drastic about economic policy.
+
+**and so forth**
+
+> 等等
+>
+> ```c
+> printf("&a = %p\n", (void*)&a);
+> printf("a  = %p\n", (void*)a);
+> printf("*a = %p\n", (void*)*a);
+> /* and so forth */
+> ```
+
+**predominant**
+
+> Unicast transmission, in which a packet is sent from a single source to a specified destination, is still the predominant form of transmission on LANs and within the Internet.
+
+**bloat**
+
+> Programmers should always check for errors, but unfortunately, many skip error checking because it *bloats* the code and makes it harder to read.
+
+**start over**
+
+> If you *start over* or start something over, you begin something again from the beginning.
+
+**elapse**
+
+> When time **elapses**, it passes.
+
+**prematurely**
+
+> - In a way that happens or is done too soon, especially before the natural or suitable time.
+>   - Sleep returns zero if the requested amount of time has elapsed, and the number of seconds still left to sleep **otherwise**. The latter case is possible if the sleep function returns prematurely because it was interrupted by a *signal*.
+
+**thorny**
+
+> - A thorny problem or subject is difficult to deal with.
+>   - Signal handling is one of the *thornier* aspects of Linux system-level programming.
+
+**counterintuitive**
+
+> - Something that is counter-intuitive does not happen in the way you would expect it to.
+>   - The rules for how and when signals are received is often counterintuitive.
+
+**conservative**
+
+> 保守的；守旧的；保守派
+>
+> Our aim here is to give you some *conservative* guidelines for writing handlers that are safe to run concurrently.
+
+**hodgepodge**
+
+> - A hodgepodge is an untidy mixture of different types of things. 大杂烩
+>   - The term *Unix IPC* is typically reserved for a hodgepodge of techniques that allow processes to communicate with other processes that are running on the same host.
+
+**dilemma**
+
+> - A dilemma is a difficult situation in which you have to choose between two or more alternatives.
+>   - One solution to this dilemma is a situation called *I/O multiplexing*. 
+
+**partition**
+
+> We will find it helpful to partition the loop code for thread *i* into five parts.
+
+**indivisibly**
+
+> in a way that is not able to be separated from something else or into different parts
+>
+> - The test and decrement operations in *P* occur indivisibly, **in the sense that** once the semaphore *s* becomes nonzero, the decrement of *s* occurs without interruption.
+
+**in the sense that**
+
+> 就这种意义而言；在某种意义上说
+
+**For conciseness**
+
+> 为了简明
+>
+> For conciseness, we **prefer to** use the following equivalent *P* and *V* wrapper functions **instead**.
+
+**integral**
+
+> Necessary and important as part of a whole.
+>
+> - I/O is  integral to the operation of a system, and because of this, we often encounter circular dependencies between I/O and other systems ideas.
+
+**hierarchy**
+
+> 层次体系
+>
+> - The Linux kernel organizes all files in a single *directory hierarchy* anchored by the *root directory* named / (slash).
+
+**descendant**
+
+> A person who is related to you and who lives after you, such as your child or grandchild.
+>
+> - Each file in the system is a direct or indirect descendant of the root directory.
+
+**deliberation**
+
+> Deliberation is the long and careful consideration of a subject.
+>
+> - After much deliberation, I *narrowed* the problem down to the Base Filtering service.
+
+**amortize**
+
+> In finance, if you amortize a debt, you pay it back in regular payments.
+
+**elicit**
+
+> If you elicit a response or a reaction, you da or say something which makes other people respond or react.
+>
+> - That's accessing a non-existing page **elicits a segment fault**.
