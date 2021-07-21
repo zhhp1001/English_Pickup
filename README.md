@@ -1,12 +1,10 @@
+[Useful Site](https://www.etymonline.com/)
+
 **on-the-fly**  
 
 > 即时、动态...
 
 > You can also edit the HTML or CSS *on-the-fly* in the Elements or Styles panel that opens.
-
-**switty**
-
-> 机智的（在GitHub上见到过）
 
 **This is typically the case**
 
@@ -248,9 +246,9 @@
 
 **tremendous**
 
-> I want to thank all of your tremendous support during my time at Intel.
+> - I want to thank all of your tremendous support during my time at Intel.
 >
-> 巨大
+> - Tremendous thanks and appreciation to all of you.
 
 **press release**
 
@@ -1010,6 +1008,12 @@
 
 **elicit**
 
-> If you elicit a response or a reaction, you da or say something which makes other people respond or react.
+> If you elicit a response or a reaction, you do or say something which makes other people respond or react.
 >
 > - That's accessing a non-existing page **elicits a segment fault**.
+
+**This begs the question**, "How do we find things?"
+
+> 这引出了一个问题
+
+
