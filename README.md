@@ -1016,4 +1016,232 @@
 
 > 这引出了一个问题
 
+**wearisome**
+
+> If you describe something as wearisome, you mean that it is very tiring and boring or frustrating.
+>
+> - This is a wearisome task for me.
+
+**weary**
+
+> If you are weary,  you are very tired.
+>
+> If you are weary of something, you have become tired of it and have lost your enthusiasm for it.
+
+**predecessor**
+
+> Your predecessor is the person who had your job before you.
+
+**successor**
+
+> Someone's successor is the person who takes their job after they have left.
+
+**splice out**
+
+> 剪除
+
+**premature**
+
+> There's this phenomena of a lot of programmers make the mistake of what we call *premature optimization*. Try to think of all the fancy things the can do, and then they put all those in at the beginning,  before they even know that it needs to be optimized.
+>
+> So the way you want to work on this and any sort of complex problem is to first do fairly simple things and then look and see where the slowdowns are and inefficiencies are and just  hit those  one after another and optimize only for the things that are necessary.
+
+**circumvent**
+
+> 规避；绕过；绕行
+>
+> It takes quite a long time for the online installer to download install .net framework 3.5. The good thing is, you can easily circumvent this. 
+
+**spurious**
+
+> A spurious argument or way of reasoning is incorrect, and so the conclusion is probably incorrect.
+>
+> - Ignore spurious requests.
+>
+>   ```C
+>   if (size == 0)
+>       return NULL:
+>   ```
+
+**split**
+
+> If something splits or if you split it, it is divided into two or more parts.
+
+**miscellaneous**
+
+> A miscellaneous group consists of many different kinds of things or people that are difficult to put into a particular category.
+
+**clueless**
+
+> having no knowledge of something, or of things in general
+>
+> - I am totally clueless about `makefiles`.
+
+**in terms of**
+
+> If you talk about something in terms of something or in particular terms, you are specifying which aspect of it you are discussing or from what point of view you are considering it.
+
+**suffix**
+
+> 后缀
+
+**decompose**
+
+> 分解
+>
+> - Your code should be decomposed into functions and use as few global variables as possible.
+
+**departure**
+
+> 出发；起程
+>
+> The textbook has a detailed example of a simple allocator based on an implicit free list. Use this is a point of departure. Don't start working on your allocator until you understand everything about the simple implicit list allocator.
+
+**contingent worker**
+
+> 临时工
+
+**planar**
+
+> 平面的
+>
+> Y8 is a planar image format, containing only a single, 8 bit 'Y' plane for monochrome images.
+
+**schematic**
+
+> A schematic diagram or picture shows something in a simple way.
+>
+> - This is a rough schematic of how it all relates.
+
+**resemble**
+
+> If one thing or person resembles another, they are similar to each other.
+>
+> - You resemble your mother very closely.
+
+**entity**
+
+> something that exists apart from other things, having its own independent existence.
+
+**work like a charm**
+
+> 药到病除
+>
+> If you say that something **worked like a charm**, you mean that it was very effective or successful.
+
+**consecutive**
+
+> 连续不断的
+>
+> Consecutive periods of time or events happen one after the other without interruption.
+>
+> - To render the dark scene close to what I saw I took 7 consecutive 15 second exposures in under 2 minutes interval.
+
+**more often than not**
+
+> 通常；往往
+>
+> Educational systems more often than not reflect the essential nature of that society.
+
+**cont.**
+
+> is an abbreviation for 'continued', which is used at the bottom of a page to indicate that a letter or text continues on another page.
+
+**backtick**
+
+> 反引号 `
+>
+> - Whenever I can, I write shell scripts as Ruby scripts with lots of backticks.
+
+**strive**
+
+> If you *strive to do* something or *strive for* something, you make a great effort to do it or get it.
+>
+> - When you writing programs, it's always a good idea to strive for simplicity and clarity. 
+
+**designate**
+
+> When you designate someone or something as a particular thing, you formally give them that description or name.
+>
+> - A common convention is to use uppercase letters to designate constants and lowercase letters for true variables.
+
+**flesh out**
+
+> If you *flesh out* something such as a story or plan, you add details and more information to it.
+>
+> - With our function framework in place and working, it's time to flesh out some of the function code.
+
+**coherent**
+
+> I will try to demonstrate how it merely combines all the good programming principles that you always wanted to employ into a coherent approach.
+
+**savvy**
+
+> If you describe someone as having savvy, you think that they have a good understanding and practical knowledge of something.
+>
+> - He is known for his political savvy and strong management skills.
+
+**gloss over**
+
+> If you gloss over a problem, a mistake, or an embarrassing moment, you try and make it seem unimportant by ignoring it or by dealing with it very quickly.
+>
+> - One detail I'm glossing over for simplicity, is that I've assumed that...
+
+**conceptual graphic**
+
+> 概念图
+
+**Threads are visible only from within the process**
+
+> ...from within...
+
+**full-fledged**
+
+> - completely developed or trained
+>
+> When a multi-threaded program starts executing, it has one thread running, which executes the main() function of the program. This is already a full-fledged thread, with its own thread ID.
+
+**footprint**
+
+> 占用空间，占地面积
+>
+> This page is about a technique for the memory footprint of programs in compiled languages with C-like structures.
+
+**it began dawn on me**
+
+> 突然意识到
+>
+> But as I worked, and thought about what I was doing, it began to dawn on me that the technique I was using has been more than half forgotten in these latter days.
+
+**retain**
+
+> - to keep or continue to have something:
+>
+> She has lost her battle to retain control of the company.
+>
+> He [managed](https://dictionary.cambridge.org/dictionary/english/manage) to retain his dignity throughout the performance.
+
+**comprise**
+
+> - to have as [parts](https://dictionary.cambridge.org/dictionary/english/part) or [members](https://dictionary.cambridge.org/dictionary/english/member), or to be those [parts](https://dictionary.cambridge.org/dictionary/english/part) or [members](https://dictionary.cambridge.org/dictionary/english/member):
+>
+> Teams are [created](https://dictionary.cambridge.org/dictionary/english/create) to [work](https://dictionary.cambridge.org/dictionary/english/work) on one [specific](https://dictionary.cambridge.org/dictionary/english/specific) [project](https://dictionary.cambridge.org/dictionary/english/project), and are **comprised of** [people](https://dictionary.cambridge.org/dictionary/english/people) who have very different [skills](https://dictionary.cambridge.org/dictionary/english/skill).
+>
+> Manufacturing comprises 14% of the state's [economy](https://dictionary.cambridge.org/dictionary/english/economy).
+>
+> The linked list is comprised of structs called Elems:
+>
+> ```
+> struct Elem 
+>     {
+>         int pri;
+>         data info;
+>         Elem * next;
+>     };
+>     Elem * head;
+> ```
+
+
+
+
 
