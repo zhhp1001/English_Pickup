@@ -1240,7 +1240,112 @@
 >     };
 >     Elem * head;
 > ```
+**panel discussion**
 
+> 分组讨论；座谈；座谈会;
+>
+> a discussion between a panel or group of people.
+
+**fine-grained**
+
+> 细粒度的
+>
+> Functions and classes provide relatively fine-grained separation of concerns, whereas libraries, source files, and translation units provide *coarser grain*.
+
+**coarse grain**
+
+> 粗粒度的
+
+**Slurry**
+
+> Slurry is a watery mixture of something such as mud, animal waste, or dust.
+>
+> Just #including those headers causes a slurry of error messages.
+
+**clash**
+
+> 冲突
+>
+> There are many techniques for dealing with such name clashes.
+
+**inhibit**
+
+> The use of many different names inhibits generic programming.
+
+**cumbersome**
+
+> - Something that is cumbersome is large and heavy and therefore difficult to carry, wear, or handle.
+> - A cumbersome system or process is  very complicated and inefficient.
+
+**converse**
+
+> 相反地；
+
+**gulf**
+
+> 海沟；鸿沟
+>
+> Solid state disks are playing an increasingly important role in the memory hierarchy, bridging the gulf between DRAM and rotating disk.
+
+**obstruct**
+
+> If something obstructs a road or path, it blocks it, stopping people or vehicles getting past.
+
+**exceed**
+
+> 超过（数目或数量）；超越...的限制
+>
+> ...can eventually exceed real-time constrains.
+
+**suppress**
+
+> To suppress error messages from a command, we do this:
+>
+> ```
+> ls -l /bin/usr/ 2> /dev/null
+> ```
+
+**under the hood**
+
+> What do branches look like under the hood in Git?
+
+**stunning**
+
+> 极有魅力的；绝妙的；给人以深刻印象的；令人惊奇万分的
+>
+> Although other version control systems also offer some form of branching, Git’s concept and implementation are just stunning.
+
+**mitigate**
+
+> To mitigate something means to make it less unpleasant, serious, or painful.
+>
+> But there’s an easy way to *mitigate* these risks: you could simply *duplicate the whole project folder*! In this copy, you could then make any changes you like, without worrying about breaking something.
+
+**bring...to a halt**
+
+> **A handful of** people working together in such a way is enough to bring the whole development process to a halt.
+
+**exclusive**
+
+> 独有的
+>
+> As said, branches are not exclusive to Git.
+
+**mingle**
+
+> - If things such as sounds, smells, or feelings mingle, they become mixed together but are usually still recognizable.
+>
+>   Now the cheers and applause mingled in a single sustained roar.
+>
+> - At a party, if you mingle with the other people there, you move around and talk to them.
+>
+>   Go out of your way to mingle with others at the wedding.
+
+**interfere**
+
+> 干涉；干预；干扰；打扰
+>
+> One advantage, is that the relatively untested new code that you are producing won't interfere with the work of others.
 
 
 
