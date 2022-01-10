@@ -1347,6 +1347,118 @@
 >
 > One advantage, is that the relatively untested new code that you are producing won't interfere with the work of others.
 
+**conjunction**
 
+> Records registered through the `git remote` command are used in conjunction with the `git fetch`, `git push`, and `git pull` commands. 
+
+**numerator**
+
+> 分子
+
+**Denominator**
+
+> 分母
+
+**fraction**
+
+> - 分数；
+> - 少量；
+>   - For instance, only a fraction of houses have swimming pools, so the parameters related to swimming pools will be useless **nine times out of ten**.
+
+**nine times out of ten**
+
+> 十之八九
+
+**decimal**
+
+> A decimal is a fraction that is written in the form of a dot followed by one or more numbers which represent tenths, hundreds, and so on: for example .5, .51, .517.
+
+**delegate**
+
+> *Abstraction* (also called *interface*) is a high-level control layer for some entity. This layer isn’t supposed to do any real work on its own. It should **delegate** the work to the *implementation* layer (also called *platform*).
+
+**bloat the code immensely**
+
+> However, it quickly became apparent that this approach would bloat the code immensely, not only the library code but the client code as well.
+
+**involved**
+
+> 复杂的
+>
+> Line matching is more involved in a set associative cache than in a direct-mapped cache.
+
+**retrieve**
+
+> 找回；取回；索回；挽回
+>
+> However, once the cache has retrieved the block, which line should it replace?
+
+**exploit**
+
+> 利用
+>
+> To summarize, programmers should be aware of locality in their programs and try to write programs that exploit it.
+
+**wrap up**
+
+> 综合，总结；
+>
+> This section wraps up our discussion of the memory hierarchy by studying the impact that caches have on the performance of programs running on real machines.
+
+**heterogeneous**
+
+> - consisting of parts or things that are very different from each other.
+>
+>   **tuple** and **pair** are very similar in their structure. Just like in **pair** we can pair two heterogeneous object, in **tuple** we can pair three heterogeneous objects.
+
+**homogeneous**
+
+> - Homogeneous is used to describe a group or thing which has members or parts that are all the same.
+>
+>   Arrays, as we all know, are collection of homogeneous objects.
+
+**deduce**
+
+> - To reach an answer or a decision by thinking carefully about the known facts
+>
+>   You'll be able to deduce what the accidentals are in any scale.
+
+**unanticipated**
+
+> 意料之外的
+>
+> Even small errors (usually called *bugs*) in programs can have complex and unanticipated consequences.
+
+**retrieve**
+
+> If you **retrieve** something, you get it back from the place where you left it.
+
+**decomposition**
+
+> 分解
+>
+> The entire `sqrt` program can be viewed as a cluster of procedures (shown in figure [1.2](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-10.html#%_fig_1.2)) that mirrors the decomposition of the problem into subproblems.
+
+**self-evident**
+
+> 显而易见的；不言而喻的；明摆着的
+>
+> This principle seems on the surface to be self-evident, but its consequences are profound.
+
+**profound**
+
+> 深远的；深切的；巨大的
+>
+> This principle seems on the surface to be self-evident, but its consequences are profound.
+
+**clutter up** 
+
+> The other procedures only **clutter up** their minds.
+
+**tractable**
+
+> 易处理的；易驾驭的
+>
+> We will use block structure extensively to help us break up large programs into tractable pieces.
 
 
