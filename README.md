@@ -1461,4 +1461,127 @@
 >
 > We will use block structure extensively to help us break up large programs into tractable pieces.
 
+**they seem hardly different at all**
 
+> 他们似乎没有什么不同
+
+**resort to**
+
+> 依靠；求助
+>
+> As a consequence, these languages can describe iterative processes only by *resorting to* "looping constructs".
+
+**share this defect**
+
+> 有这个缺点
+>
+> The implementation of Scheme we shall consider in chapter 5 does not *share this defect*.
+
+**recast**
+
+> If you recast something, you change it by organizing it in a different way.
+>
+> To formulate the iterative algorithm required noticing that the computation could be recast as an iteration with three state variable.
+
+**sandwich**
+
+> the value *R*(*n*) is sandwiched between *k*1*f*(*n*) and *k*2*f*(*n*).
+
+**gross**
+
+> 粗略的
+>
+> One convenient way to describe this difference is to use the notion of *order of growth* to obtain a **gross measure** of the resources required by a process as the inputs become larger.
+
+**a decent amount of**
+
+> 相当多的
+>
+> There is a decent amount of math in different areas being used.
+
+**aforementioned**
+
+> 前面提到的；上述
+>
+> If you refer to the aforementioned person or subject, you mean the person or subject that has been mentioned.
+
+**auxiliary**
+
+> One way to accomplish this is to use an auxiliary procedure to bind the local variables.
+
+**seasoned**
+
+> 有经验的
+>
+> seasoned programmers
+
+**outermost**
+
+> On the other hand, the x that is the second argument to the outermost + is still 5.
+
+**yield the same result**
+
+> yield the same result as dividing n by d
+
+**namely**
+
+> 即;也就是;换句话说;
+> The subtle point to notice is that the value returned by (cons x y) is a procedure—namely the internally defined procedure dispatch.
+
+**take as arguments ...**
+
+> The procedure takes as arguments a list and a number *n* and returns the $n_{th}$ item of the list with 0.
+
+**peculiar**
+
+> If you find this output to be unexpected, draw an expression tree to clarify why evaluating this expression produces this peculiar output.
+
+**course**
+
+> In general, iterative functions must maintain some local state that changes throughout the course of computation.
+
+**squish**
+
+> Kronik expected the build to take about a year, but it took about twice that thanks to every engineer's worst nightmare-Finding and squishing nasty bugs.
+
+**fed up**
+
+> I'm fed up with my job
+
+**novice**
+**If all you have is a hammer, everything looks like a nail**
+
+> This is the problem that haunts many novices who have just familiarized themselves with patterns. 
+> Having learned about patterns, they try to apply them everywhere, even in situations where simpler code 
+> would do just fine.
+
+**logistics**
+
+> 物流；后勤
+
+**IMHO**
+
+> 恕我直言
+> In my humble opinion
+
+
+**OTOH**
+> abbreviation for on the other hand: used in emails and text messages before you refer to a different way of looking at a situation
+
+**premise**
+> The basic premise and implementation have not changed since then.
+
+**need badly**
+> that page needs badly to be put up-to-date.
+
+**This is good and bad**
+> 这是好事，也是坏事
+
+**Vaguely**
+> Most farm workers were only vaguely aware that there was a storm on its way.
+
+**courteously**
+> Unlike `printenv`, its output is courteously sorted in alphabetical order
+
+**AFAIK**
+> As far as I know
