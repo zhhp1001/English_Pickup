@@ -1585,3 +1585,9 @@
 
 **AFAIK**
 > As far as I know
+
+**compelling**
+> These tools help make Linux a compelling operating system.
+
+> If you describe something such as a film or book, or someone's appearance, as compelling, you mean you
+> want to keep looking at it or reading it because you find it so interesting.
