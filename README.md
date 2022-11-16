@@ -1591,3 +1591,8 @@
 
 > If you describe something such as a film or book, or someone's appearance, as compelling, you mean you
 > want to keep looking at it or reading it because you find it so interesting.
+
+**idiomatic**
+> 地道的
+
+> Casting to oid is an idiomatic way to ignore a variable explicitly in C and C++.
