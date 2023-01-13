@@ -1600,4 +1600,11 @@
 **IMHO**
 > In my humble opinion.
 
+**color my perceptions**
+> The fact that...really color my perceptions.
+
+**sizeable**
+> Sizeable means fairly large.
+
+> a sizeable performance advantage.
 
