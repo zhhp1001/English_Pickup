@@ -1608,3 +1608,11 @@
 
 > a sizeable performance advantage.
 
+**restrict**
+> You want to restrict access to the system so only authenticated users can create orders. 
+
+**filcker of hope**
+> With a small flicker of hope, you decide to call the tech-support phone number written on the box.
+
+**boilerplate**
+>The Base Handler is an optional class where you can put the boilerplate code that’s common to all handler classes.
