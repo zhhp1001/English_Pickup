@@ -1619,3 +1619,8 @@
 
 **relay**
 > How the error relayed to the application, so that it can log the error or notify the user?
+
+**fallback**
+> A different example would be if you want to read some configuration from a file, 
+> and that file happens to not exist. Because it is a configuration file,  you might have some default configuration as a fallback,
+> so the file is not exactly necessary. 
