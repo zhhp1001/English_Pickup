@@ -1616,3 +1616,6 @@
 
 **boilerplate**
 >The Base Handler is an optional class where you can put the boilerplate code that’s common to all handler classes.
+
+**relay**
+> How the error relayed to the application, so that it can log the error or notify the user?
