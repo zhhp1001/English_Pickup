@@ -1624,3 +1624,6 @@
 > A different example would be if you want to read some configuration from a file, 
 > and that file happens to not exist. Because it is a configuration file,  you might have some default configuration as a fallback,
 > so the file is not exactly necessary. 
+
+**flesh out**
+> In the remaining chapters, we will flesh this out with lots more kinds of instructions. But the basic structure is here, and we have everything we need now > to completely represent an executable piece of code at runtime in our virtual machine.
