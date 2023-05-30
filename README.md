@@ -1627,3 +1627,7 @@
 
 **flesh out**
 > In the remaining chapters, we will flesh this out with lots more kinds of instructions. But the basic structure is here, and we have everything we need now > to completely represent an executable piece of code at runtime in our virtual machine.
+
+**demystify**
+> We are trying to demystify the workings of government.
+
