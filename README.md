@@ -1631,3 +1631,5 @@
 **demystify**
 > We are trying to demystify the workings of government.
 
+**off-the-shelf**
+> You can’t just find a pattern and copy it into your program, the way you can with off-the-shelf functions or libraries. 
